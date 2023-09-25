@@ -247,7 +247,7 @@ body {
 .rabota {
   width: calc(var(--index) * 10);
   height: calc(var(--index) * 3.5); 
-  margin-top: calc(var(--index) * 1.2);
+  margin-top: calc(var(--index) * 2);
   margin-left: calc(var(--index) * 9);
   font-family: raleway_f;
   font-weight: 900;
