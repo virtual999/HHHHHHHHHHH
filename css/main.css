@@ -256,6 +256,11 @@ body {
   letter-spacing: calc(var(--index) / 16);
 }
 
+.video {
+  justify-content:
+  flex-end;
+}
+
 .footer {
   width: 100%;
   height: calc(var(--index) * 8.5);
