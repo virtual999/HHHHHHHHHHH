@@ -257,7 +257,7 @@ body {
 }
 
 .video{
-  margin-left: calc(var(--index) * 9);
+  margin-left: calc(var(--index) * 20);
 }
 
 
