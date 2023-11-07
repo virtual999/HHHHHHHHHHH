@@ -11,3 +11,4 @@ https://docs.google.com/document/d/18LmiZi7STTajDOgYOjyxuui38Dfm0Ph0o6p6huZOOgk/
 
 
 практика https://drive.google.com/drive/folders/1eoXMUwwVqF9KIFLy_J9XJROjW1UH5gGr?usp=sharing
+профиль хабр фриланс
